@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+python-telegram-bot
+yt-dlp
+flask
+gunicorn
+git+https://github.com/cynthia2006/hanime-tv-plugin.git
